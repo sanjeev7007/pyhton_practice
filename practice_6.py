@@ -1,0 +1,7 @@
+name = input()
+score = int(input())
+department = input()
+divide = int(score/10)
+print("My namr is ", name)
+print("My score is",divide,"/10")
+print("My department is",department)
